@@ -19,7 +19,7 @@
 
 04 •  Implementing Log Aggregation with Elasticsearch, FluentD and Kibana [here](https://github.com/reselbob/dockerdemos/tree/master/travelagent)
 
-## Day 2
+## Day 3
 
 01 •  Service Discovery and Heath Check with Consul [here](https://github.com/reselbob/innosoft-vmware-10202019/tree/master/consul).
 
